@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/Booleano.h
+
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/FilaPointer.h
+Booleano.h
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/Booleano.h
+
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/Pedro_Di_Santi_AT12.c
+stdio.h
+-
+stdlib.h
+-
+Booleano.h
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/Booleano.h
+FilaPointer.h
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/FilaPointer.h
+

@@ -1,0 +1,3 @@
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/CLionProjects/Pedro_Di_Santi_AT12/cmake-build-debug/CMakeFiles/Pedro_Di_Santi_AT12.dir
